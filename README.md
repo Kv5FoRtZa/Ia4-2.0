@@ -1,4 +1,5 @@
 # Evo Hunter - 2D game in Python
+	De adaugat venv
 	Proiect Informatica Aplicata 4
 	
 	Scurta descriere:
