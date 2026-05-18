@@ -10,7 +10,7 @@
 	La nivelul final, boss-ul trebuie eliminat impreuna cu inamicii normali.
 
 	Link github:
-		https://github.com/Kv5FoRtZa/Ia4
+		https://github.com/Kv5FoRtZa/Ia4-2.0
 	Limbaje folosite/tehnologii folosite:
 		Python/Pygame
 	Instructiuni rulare:
