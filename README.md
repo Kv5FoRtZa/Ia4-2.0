@@ -1,5 +1,5 @@
 # Evo Hunter - 2D game in Python
-	De adaugat venv
+	La venv lipsesc pygames si pip, probabil merge si fara ele
 	Proiect Informatica Aplicata 4
 	
 	Scurta descriere:
